@@ -2,15 +2,6 @@
 
 A virtual protest app
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Idea
+ - Due to the outbreak of COVID-19, protest became difficut and potentially dangerous. This app is an attemp to create a platform where people can safely excercise their rights. 
+ - For the traditional way of protesting, one can't never know if their ideas are widely supported or not. Now with this app, people can see in real-time the amount of people who are with or against their ideas.
